@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<b>"May the force be with you!"</b>
 Use the left arrow to go back!
